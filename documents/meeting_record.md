@@ -5,3 +5,7 @@
 ![yt-meeting_record](../assets/mind-map/yt-meeting_record.bmp)
 
 *credit: yt*
+
+![ymj-meeting_record](../assets/mind-map/ymj-meeting_record.PNG)
+
+*credit: ymj*
