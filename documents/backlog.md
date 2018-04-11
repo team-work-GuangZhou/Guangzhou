@@ -1,4 +1,4 @@
-**<p align="center">Guangzhou Backlog</p>**
+## <p align="center">Guangzhou Backlog</p>
 
 产品backlog是Srcum的核心。从根本上讲，它是一个需求、故事、特性、故事、特性组成的列表，并按照重要性的级别对这些需求进行了排序。
 
