@@ -9,3 +9,7 @@
 ![ymj-meeting_record](../assets/mind-map/ymj-meeting_record.PNG)
 
 *credit: ymj*
+
+![kls-meeting_record](../assets/mind-map/kls-meeting_record.PNG)
+
+*credit: kls*
