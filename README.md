@@ -33,5 +33,5 @@ Record the whole development process of Guangzhou.
 * 需求分析：无
 * 设计：完善设计
 * 编码&测试：
-  * 前端：登录注册原型开发
+  * 前端：登录注册、用户信息展示原型开发
   * 后端：数据库开发
