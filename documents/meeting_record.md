@@ -10,6 +10,6 @@
 
 *credit: ymj*
 
-![kls-meeting_record](../assets/mind-map/kls-meeting_record.PNG)
+![kls-meeting_record](../assets/mind-map/kls-meeting_record.png)
 
 *credit: kls*
