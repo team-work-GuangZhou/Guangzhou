@@ -40,16 +40,16 @@
    *发布页界面图*：  
  ![个人页界面图][13]
  
-  [1]: https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/登陆页.PNG
-  [2]: https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/登陆页.png
-  [3]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/租人页.png
-  [4]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/出租页.png
-  [5]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/详情页.png
-  [6]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/下单页.png
-  [7]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/下单成功页.png
-  [8]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/订单页地点打卡.png
-  [9]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/发布页.png
-  [10]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/地点打卡页.png
-  [11]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/发布成功.png
-  [12]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/订单页.png
-  [13]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/个人页.png
+  [1]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UML/用例图.png
+  [2]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/登陆页.png
+  [3]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/租人页.png
+  [4]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/出租页.png
+  [5]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/详情页.png
+  [6]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/下单页.png
+  [7]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/下单成功页.png
+  [8]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/订单页地点打卡.png
+  [9]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/发布页.png
+  [10]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/地点打卡页.png
+  [11]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/发布成功.png
+  [12]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/订单页.png
+  [13]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/个人页.png
