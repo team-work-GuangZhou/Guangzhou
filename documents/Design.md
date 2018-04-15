@@ -1,5 +1,5 @@
 ## User case图
- ![座位选择][1]
+![Use case图][1]
 
 ##Use case 文本
 
