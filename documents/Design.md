@@ -75,7 +75,7 @@
  ![个人页界面图][13]
  
   [1]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UML/用例图.png
-  [2]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/登录页.png
+  [2]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/登录.png
   [3]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/租人页.png
   [4]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/出租页.png
   [5]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/详情页.png
