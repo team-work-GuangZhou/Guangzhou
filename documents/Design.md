@@ -1,12 +1,49 @@
-## UI design
-- XX用例UI设计
+## User case图
+![Use case图][1]
+
 ##Use case 文本
 
  1. Brief Level
  - **注册与登录**：用户可以点击注册按钮进入注册页面，输入用户名、登录密码，在确认用户名没有重复、密码符合规范之后，提示用户注册成功。已经注册的用户可以点击登录按钮进入登录页面，输入正确的用户名和密即可登录成功。
+ *登录图*：  
+ ![登录图][2] 
  - **查看租人和出租项**：用户可以浏览每日最新的出租项和租人项。
- - **租人项或出租项的详情页**：用户可以点击租人项和出租项来查看详情。
+ *租人界面图*：  
+ ![租人界面图][3] 
+  *出租界面图*：  
+ ![出租界面图][4] 
+ - **租人项或出租项的详情页**：点击某一项出租项或租人项时可以查看其详情。
+   *详情界面图*：  
+ ![详情界面图][5] 
  - **下单页**：用户可以通过详情页的“去下单”按钮进入到下单页。
- - **订单页**：下单成功后可以跳转到订单页。显示“支付成功”
+   *下单界面图*：  
+ ![下单界面图][6] 
+ - **下单成功页**：下单成功后可以跳转到订单页。显示“支付成功”。
+   *下单成功界面图*：  
+ ![下单成功界面图][7] 
+ - **订单页地点打卡**：在达成的订单中，当天到场时可以进行一次地点打卡，代表已经到达，从而排除违约情况。
+   *订单页地点打卡界面图*：  
+ ![订单页地点打卡界面图][8]
+  - **发布页**：发布一个新的出租项或者租人项，要填写标题，详情，添加照片，选择地点，选择起止时间，填写价格及违约金。
+   *发布页界面图*：  
+ ![发布页界面图][9]
+   - **发布页选择地点**：在发布页选择活动地点。
+   *发布页选择地点界面图*：  
+ ![发布页选择地点界面图][10]
+    - **发布成功**：发布成功后可以在出租列表里看到自己刚刚发布的内容。
+   *发布成功界面图*：  
+ ![发布成功界面图][11]
+     - **个人订单页**：可以查看到所有订单，包括已支付，未支付，退款单等等。
+   *个人订单页*：  
+ ![个人订单页界面图][12]
+   - **个人页**：个人资料页，可以进行个人设置，查看个人的收藏，评价，好友动态，客服等。
+   *发布页界面图*：  
+ ![个人页界面图][13]
  
-
+  [1]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E5%A4%84%E7%90%86%E9%80%80%E7%A5%A8_%E6%B4%BB%E5%8A%A8%E5%9B%BE.PNG
+  [2]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E9%80%80%E7%A5%A8_UI%E5%8E%9F%E5%9E%8B.png
+  [3]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E5%8D%95%E8%BA%AB%E4%BA%A4%E5%8F%8B_%E6%B4%BB%E5%8A%A8%E5%9B%BE.png
+  [4]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E5%BD%B1%E9%99%A2%E9%80%89%E6%8B%A9_UI.jpg
+  [5]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E5%9C%BA%E6%AC%A1%E9%80%89%E6%8B%A9_UI.jpg
+  [6]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E5%BA%A7%E4%BD%8D%E9%80%89%E6%8B%A9_UI.png
+  [7]: https://github.com/HYPJUDY/movie-ticket-and-service-website/blob/master/assets/images/Use_Case%E5%9B%BE.png
