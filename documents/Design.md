@@ -1,55 +1,86 @@
-## User case图
-![Use case图][1]
+##Use Case 图
+![Use case图][7]
 
 ##Use case 文本
 
  1. Brief Level
- - **注册与登录**：用户可以点击注册按钮进入注册页面，输入用户名、登录密码，在确认用户名没有重复、密码符合规范之后，提示用户注册成功。已经注册的用户可以点击登录按钮进入登录页面，输入正确的用户名和密即可登录成功。
- *登录图*：  
- ![登录图][2] 
- - **查看租人和出租项**：用户可以浏览每日最新的出租项和租人项。
- *租人界面图*：  
- ![租人界面图][3] 
-  *出租界面图*：  
- ![出租界面图][4] 
- - **租人项或出租项的详情页**：点击某一项出租项或租人项时可以查看其详情。
-   *详情界面图*：  
- ![详情界面图][5] 
- - **下单页**：用户可以通过详情页的“去下单”按钮进入到下单页。
-   *下单界面图*：  
- ![下单界面图][6] 
- - **下单成功页**：下单成功后可以跳转到订单页。显示“支付成功”。
-   *下单成功界面图*：  
- ![下单成功界面图][7] 
- - **订单页地点打卡**：在达成的订单中，当天到场时可以进行一次地点打卡，代表已经到达，从而排除违约情况。
-   *订单页地点打卡界面图*：  
- ![订单页地点打卡界面图][8]
-  - **发布页**：发布一个新的出租项或者租人项，要填写标题，详情，添加照片，选择地点，选择起止时间，填写价格及违约金。
-   *发布页界面图*：  
- ![发布页界面图][9]
-   - **发布页选择地点**：在发布页选择活动地点。
-   *发布页选择地点界面图*：  
- ![发布页选择地点界面图][10]
-    - **发布成功**：发布成功后可以在出租列表里看到自己刚刚发布的内容。
-   *发布成功界面图*：  
- ![发布成功界面图][11]
-     - **个人订单页**：可以查看到所有订单，包括已支付，未支付，退款单等等。
-   *个人订单页*：  
- ![个人订单页界面图][12]
-   - **个人页**：个人资料页，可以进行个人设置，查看个人的收藏，评价，好友动态，客服等。
-   *发布页界面图*：  
- ![个人页界面图][13]
- 
-  [1]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UML/用例图.png
-  [2]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/登陆页.png
-  [3]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/租人页.png
-  [4]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/出租页.png
-  [5]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/详情页.png
-  [6]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/下单页.png
-  [7]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/下单成功页.png
-  [8]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/订单页地点打卡.png
-  [9]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/发布页.png
-  [10]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/地点打卡页.png
-  [11]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/发布成功.png
-  [12]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/订单页.png
-  [13]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/个人页.png
+ - **注册与登录**：用户可以点击注册按钮进入注册页面，输入用户名、邮箱、登录密码，在确认用户名没有重复、密码符合规范并验证邮箱之后，提示用户注册成功。已经注册的用户可以点击登录按钮进入登录页面，输入正确的用户名和密即可登录成功。
+ - **查看电影资讯**：用户可以浏览每日最新的电影新闻、预告片、电影音乐等等。
+ - **查询电影**：用户可以按照年份、类型、国家、评分等多种类别筛选想要的电影；同时也可以通过搜索框直接按关键字搜索电影。
+ - **收藏电影**：用户可以在每部电影对应的界面中点击收藏按钮，这些收藏的电影可以在个人中心->我的收藏中看到；同时我们也提供浏览历史功能，用户可以在个人中心->浏览历史中查看最近浏览的电影，以便快捷查看。
+ - **提醒上映**：对于还未上映的电影，用户可以在详情页中点击“想看”按钮，对于这些用户想看的电影，我们会在电影上映前3天提醒用户购票。
+
+ 2. Casual Level
+ - **处理退票**：  
+ *主成功场景*：  
+ 购票者进入个人中心，点击“我的订单”，选择要退票的订单，点击退票按钮，网站服务器收到退票请求，如果符合相关规定，则将钱款退回给用户账户，同时服务器更新订单信息，订单显示为“已退票”；同时网站服务端通知影院退票信息，影院、网站服务器更新座位信息。  
+ *交替场景*：  
+ 如果退票请求发生在影片开始前30分钟，则不允许用户退票，告知用户不能退票的原因。   
+ 如果退款至用户账户失败，则提醒用户更换退款账户，重新发起退款。  
+ 如果系统检测到与外部记账系统通信失败，则告知用户发生位置错误，请求用户稍后发起退票，将该错误发送给管理员。  
+ *活动图*：  
+ ![退票活动图][1]  
+ *UI原型*：  
+ ![退票UI原型][2]  
+ - **同一场次单身男女推荐**  
+ *主成功场景*：  
+ 在开场前30分钟，系统向只买了一张票的男性用户推送同一场次所有只买了一张票的女性用户的座位信息，同时向所有只买了一张票的女性用户推送同一场次所有只买了一张票的男性用户的座位信息。用户可以通过座位号选择自己感兴趣的人，如果双方都对彼此感兴趣，那么就可以互相发送对方的手机号码/邮箱账号。
+ *交替场景*：  
+ 如果只有单方对另一人有兴趣，则不会发送任何消息。  
+ *活动图*：  
+ ![单身配对活动图][3]  
+ 3. Detailed Level  
+ **处理订票**  
+ **范围：**电影网上购票  
+ **级别：**用户目标  
+ **主要参与者：**售票系统  
+ **涉众及其关注点：**  
+ *订票者：*希望以最小的代价在最短时间内完成订票活动并得到快速服务。希望便捷、清晰地看到影院地点、影片排期、特定场次的空位。希望得到购买凭证，便于后续取票以及退票。  
+ *订票系统：*希望准确地记录交易，满足顾客要求。希望确保记录了支付授权服务的支付票据。希望有一定的容错性，在某些服务器构件不可用时，也能够完成销售。希望能够自动、快速地更新账务和座位信息。  
+ *支付授权服务：*希望接收到格式和协议正确的数字授权请求。希望准确计算对影院的应付款。  
+ **前置条件：**：影院必须经过确认和认证。  
+ **成功保证：**：存储销售信息。准确计算服务费。更新账务和座位信息。记录提成。生成票据。记录支付授权的批准。  
+ **主成功场景：**  
+ 订票者选择想要观看的影片；  
+ 订票者选择想要去的影院；  
+ 订票者选择观影场次；  
+ 订票者选择座位；  
+ 购票系统显示订单详情；  
+ 订票者确认订单；  
+ 订票系统进入付款页面；  
+ 订票者选择付款方式并付款；  
+ 购票系统向影院发送交易请求并交易；  
+ 购票系统更新订单信息，打印票据；  
+ 订票人收到订单信息。  
+ **扩展：**  
+ *系统在任意时刻失败：*  
+ 为了支持恢复和更正账务处理，要保证所有交易的敏感状态和事件都能够从场景的任何一步中完全恢复。  
+ 管理员重启系统；  
+ 系统重建上次的状态；  
+ 若在系统在恢复过程中检测到异常，则记录此错误，并进入初始状态。  
+ *订票者要求恢复一个交易：*  
+ 系统执行恢复操作，根据客户ID提取对应的交易信息；  
+ 系统显示被恢复的交易状态；  
+ 继续这次交易。  
+ **特殊需求：**  
+ 支付成功后出票时间小于5s;  
+ 选择座位时根据待订票个数自动选择最合适的座位；  
+ 支持文本语言显示的国际化。  
+ **发生频率：**：可能会不断地发生。  
+ **未决问题：**  
+ 研究远程服务的恢复问题；  
+ 针对不同的业务需要怎样进行定制？  
+ **UI原型图：**  
+ ![影院选择UI][4]
+ ![场次选择UI][5]
+ ![座位选择][6]
+
+
+  [1]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E5%A4%84%E7%90%86%E9%80%80%E7%A5%A8_%E6%B4%BB%E5%8A%A8%E5%9B%BE.PNG
+  [2]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E9%80%80%E7%A5%A8_UI%E5%8E%9F%E5%9E%8B.png
+  [3]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E5%8D%95%E8%BA%AB%E4%BA%A4%E5%8F%8B_%E6%B4%BB%E5%8A%A8%E5%9B%BE.png
+  [4]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E5%BD%B1%E9%99%A2%E9%80%89%E6%8B%A9_UI.jpg
+  [5]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E5%9C%BA%E6%AC%A1%E9%80%89%E6%8B%A9_UI.jpg
+  [6]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E5%BA%A7%E4%BD%8D%E9%80%89%E6%8B%A9_UI.png
+  [7]: https://github.com/HYPJUDY/movie-ticket-and-service-website/blob/master/assets/images/Use_Case%E5%9B%BE.png
+  
