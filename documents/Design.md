@@ -40,10 +40,16 @@
    *发布页界面图*：  
  ![个人页界面图][13]
  
-  [1]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E5%A4%84%E7%90%86%E9%80%80%E7%A5%A8_%E6%B4%BB%E5%8A%A8%E5%9B%BE.PNG
-  [2]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E9%80%80%E7%A5%A8_UI%E5%8E%9F%E5%9E%8B.png
-  [3]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E5%8D%95%E8%BA%AB%E4%BA%A4%E5%8F%8B_%E6%B4%BB%E5%8A%A8%E5%9B%BE.png
-  [4]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E5%BD%B1%E9%99%A2%E9%80%89%E6%8B%A9_UI.jpg
-  [5]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E5%9C%BA%E6%AC%A1%E9%80%89%E6%8B%A9_UI.jpg
-  [6]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E5%BA%A7%E4%BD%8D%E9%80%89%E6%8B%A9_UI.png
-  [7]: https://github.com/HYPJUDY/movie-ticket-and-service-website/blob/master/assets/images/Use_Case%E5%9B%BE.png
+  [1]: https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/登陆页.PNG
+  [2]: https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/登陆页.png
+  [3]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/租人页.png
+  [4]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/出租页.png
+  [5]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/详情页.png
+  [6]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/下单页.png
+  [7]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/下单成功页.png
+  [8]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/订单页地点打卡.png
+  [9]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/发布页.png
+  [10]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/地点打卡页.png
+  [11]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/发布成功.png
+  [12]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/订单页.png
+  [13]:https://github.com/team-work-GuangZhou/Guangzhou/assets/UI/个人页.png
