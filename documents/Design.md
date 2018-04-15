@@ -40,7 +40,7 @@
    *发布页界面图*：  
  ![个人页界面图][13]
  
-  [1]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UML/用例图.png
+  [1]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E5%A4%84%E7%90%86%E9%80%80%E7%A5%A8_%E6%B4%BB%E5%8A%A8%E5%9B%BE.PNG
   [2]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/登陆页.png
   [3]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/租人页.png
   [4]:https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/出租页.png
