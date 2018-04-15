@@ -76,7 +76,7 @@
  ![座位选择][6]
 
 
-  [1]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E5%A4%84%E7%90%86%E9%80%80%E7%A5%A8_%E6%B4%BB%E5%8A%A8%E5%9B%BE.PNG
+  [1]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UML/用例图.png
   [2]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E9%80%80%E7%A5%A8_UI%E5%8E%9F%E5%9E%8B.png
   [3]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E5%8D%95%E8%BA%AB%E4%BA%A4%E5%8F%8B_%E6%B4%BB%E5%8A%A8%E5%9B%BE.png
   [4]: https://raw.githubusercontent.com/HYPJUDY/movie-ticket-and-service-website/master/assets/images/%E5%BD%B1%E9%99%A2%E9%80%89%E6%8B%A9_UI.jpg
