@@ -85,7 +85,6 @@ public class LoginActivity extends AppCompatActivity {
                 super.onPageFinished(view, url);
                 // get cookie
                 String cookie = CookieManager.getInstance().getCookie(url);
-                //CookieHandler.getDefault().put();
                 Log.i(TAG, "cookie: " + cookie);
             }
 
