@@ -83,7 +83,7 @@ public class LoginActivity extends AppCompatActivity {
             @Override
             public void onPageFinished(WebView view, String url) {
                 super.onPageFinished(view, url);
-                // 获取Cookie
+                // get cookie
                 String cookie = CookieManager.getInstance().getCookie(url);
                 //CookieHandler.getDefault().put();
                 Log.i(TAG, "cookie: " + cookie);
