@@ -73,6 +73,7 @@ public class MainActivity extends AppCompatActivity {
             }
         };
 	// say something to commit, ignore this please
+	// set the mViewPager
         mViewPager = (ViewPager) findViewById(R.id.content);
         mViewPager.setAdapter(adapter);
         final BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
