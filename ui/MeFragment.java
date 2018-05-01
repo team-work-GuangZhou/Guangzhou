@@ -84,7 +84,8 @@ public class MeFragment extends Fragment {
         mAvatar = (GenericDraweeView) view.findViewById(R.id.portrait);
         refreshUser();
     }
-
+    
+    // refresh user by avatar???
     private void refreshUser() {
         User user = App.getClient().getUser();
         Log.d("0", "refreshUser: "+user.name);
