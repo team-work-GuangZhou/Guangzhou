@@ -85,7 +85,8 @@ public class MyProductActivity extends AppCompatActivity {
 
             }
 
-            @Override
+            // onPagedSelected need to be override
+	    @Override
             public void onPageSelected(int position) {
                 if (mSelectedMenuItem != null) {
                     mSelectedMenuItem.setChecked(false);
