@@ -58,7 +58,7 @@ Record the whole development process of Guangzhou.
 	* 前端：用户登录，注册，用户信息展示界面开发
 	* 后端：用户注册信息存储开发
 
-**Week 5-6**
+**Week 5-7**
 * 需求分析：用户发布信息功能
 * 设计：前端框架以及后端接口、数据库设计
 * 编码&测试：
