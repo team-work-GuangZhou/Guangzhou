@@ -7,11 +7,11 @@ Record the whole development process of Guangzhou.
 - 4、Vision(项目愿景)
 - 5、[Product Backlog(产品特性)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/backlog.md)
 - 6、[Requirement specification(需求规格说明书)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/Requirement-specification.md)
- - 6.1 Usecase Diagram (用例图)
- - 6.2 Use Cases (用例+活动图)
- - 6.3 Domian Model (领域模型)
- - 6.4 State Model (状态模型)
- - 6.5 System Sequence Diagram (功能模型)
+	- 6.1 Usecase Diagram (用例图)
+	- 6.2 Use Cases (用例+活动图)
+	- 6.3 Domian Model (领域模型)
+	- 6.4 State Model (状态模型)
+	- 6.5 System Sequence Diagram (功能模型)
 - 7、[Design(设计)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/Design.md)
  - 7.1 UI design
   - XX用例 UI设计
