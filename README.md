@@ -14,11 +14,11 @@ Record the whole development process of Guangzhou.
  - 6.5 System Sequence Diagram (功能模型)
 - 7、[Design(设计)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/Design.md)
  - 7.1 UI design
-  - XX用例 UI设计
+  - XX用例 UI设计
  - 7.2 Database design
-  - 7.2.1 用户及权限系统数据库设计
-  - 7.2.2 XX子系统数据课设计
-  - 7.2.x 第三方数据评审结果
+  - 7.2.1 用户及权限系统数据库设计
+  - 7.2.2 XX子系统数据课设计
+  - 7.2.x 第三方数据评审结果
  - 7.3 API设计
 - 8、[生产规范与指南](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/README.md)
  - 8.1 安卓代码规范
