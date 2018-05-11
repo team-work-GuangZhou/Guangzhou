@@ -13,25 +13,25 @@ Record the whole development process of Guangzhou.
 	- 6.4 State Model (状态模型)
 	- 6.5 System Sequence Diagram (功能模型)
 - 7、[Design(设计)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/Design.md)
- - 7.1 UI design
-  - XX用例 UI设计
- - 7.2 Database design
-  - 7.2.1 用户及权限系统数据库设计
-  - 7.2.2 XX子系统数据课设计
-  - 7.2.x 第三方数据评审结果
- - 7.3 API设计
+	- 7.1 UI design
+		- XX用例 UI设计
+	- 7.2 Database design
+		- 7.2.1 用户及权限系统数据库设计
+		- 7.2.2 XX子系统数据课设计
+		- 7.2.x 第三方数据评审结果
+	- 7.3 API设计
 - 8、[生产规范与指南](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/README.md)
- - 8.1 安卓代码规范
- - 8.2 REST API设计规范
+	- 8.1 安卓代码规范
+	- 8.2 REST API设计规范
 - X1 meeting_recording
- - [meeting_recording(yy/mm/dd)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/meeting_record.md)
- - Iteration X meeting(yy/mm/dd)
+	- [meeting_recording(yy/mm/dd)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/meeting_record.md)
+	- Iteration X meeting(yy/mm/dd)
 - [X2 Tech/Work Report](https://github.com/team-work-GuangZhou/Guangzhou/tree/master/tech-work_report)
- - 学号-title
+	- 学号-title
 - XX 建模练习
- - XX1 XX应用
- - XX2 建模要求
- - XX3 建模者答案与评价
+	- XX1 XX应用
+	- XX2 建模要求
+	- XX3 建模者答案与评价
 # Iterations
 ## Iteration1
 **Week 1**
@@ -48,20 +48,20 @@ Record the whole development process of Guangzhou.
 * 需求分析：开发用户登录，注册，用户信息展示、存储功能
 * 设计：前端框架以及后端接口、数据库设计
 * 编码&测试：
-  * 前端：熟悉前端源码结构
-  * 后端：对需要用到的技术进行学习
+	* 前端：熟悉前端源码结构
+	* 后端：对需要用到的技术进行学习
 
 **Week 4**
 * 需求分析：无
 * 设计：完善设计
 * 编码&测试：
-  * 前端：用户登录，注册，用户信息展示界面开发
-  * 后端：用户注册信息存储开发
+	* 前端：用户登录，注册，用户信息展示界面开发
+	* 后端：用户注册信息存储开发
 
 **Week 5-6**
 * 需求分析：用户发布信息功能
 * 设计：前端框架以及后端接口、数据库设计
 * 编码&测试：
- * 前端：用户填写发布信息界面，发布信息展示界面，个人信息界面添加发布信息记录的元素
- * 后端：发布信息存储
+	* 前端：用户填写发布信息界面，发布信息展示界面，个人信息界面添加发布信息记录的元素
+	* 后端：发布信息存储
 
