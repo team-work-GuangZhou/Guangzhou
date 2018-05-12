@@ -1,4 +1,5 @@
 
+
 ## User case图
 ![Use case图][1]
 
@@ -22,19 +23,28 @@
   
  - **预订订单**: 用户对某项感兴趣可进行下单并交易
  - **租人项或出租项的详情页**：点击某一项出租项或租人项时可以查看其详情。
+ 
+ *UI原型*:
+ 
+ ![详情页][5]
+ 
+ 3.Detail Level
+ - **处理订单**: 用户A支付某项订单后，系统通知订单发布人B，在约定的时间和地点进行地点开始打卡。在服务结束之后进行结束打卡，并且用户对订单发布人进行评分。在此过程中，若用户A对订单发布人B的服务并不满意，可以录屏录音并上交到平台由平台进行审核，若确认有不合理状况，订单发布人B将支付违约金，同理若A有不合理状况，那么由A支付违约金。
+ 
+ *活动图*
+ ![处理订单][6]
+ 
+ *UI原型*:
+ 
+ ![地点打卡][10]
+ 
+ 
 
  
  
   [1]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UML/用例图.png
   [2]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/登录.png
   [3]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UML/发布订单case.PNG
-  [4]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/出租页.png
   [5]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/详情页.png
-  [6]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/下单页.png
-  [7]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/下单成功页.png
-  [8]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/订单页地点打卡.png
-  [9]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/发布页.png
+  [6]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UML/订单处理case.PNG
   [10]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/地点打卡页.png
-  [11]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/发布成功.png
-  [12]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/订单页.png
-  [13]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/个人页.png
