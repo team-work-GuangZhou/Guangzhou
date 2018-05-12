@@ -29,7 +29,7 @@ Record the whole development process of Guangzhou.
 - [X2 Tech/Work Report](https://github.com/team-work-GuangZhou/Guangzhou/tree/master/tech-work_report)
 	- 学号-title
 - XX 建模练习
-	- [XX1 飞猪App](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/feizhu_doc.md)
+	- [XX1 飞猪App建模文档](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/feizhu_doc.md)
 	- XX2 建模要求
 	- [XX3 建模者答案与评价](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/answer.md)
 # Iterations
