@@ -31,7 +31,7 @@ Record the whole development process of Guangzhou.
 - XX 建模练习
 	- XX1 XX应用
 	- XX2 建模要求
-	- XX3 建模者答案与评价
+	- [XX3 建模者答案与评价](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/answer.md)
 # Iterations
 ## Iteration1
 **Week 1**
