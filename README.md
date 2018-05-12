@@ -17,7 +17,7 @@ Record the whole development process of Guangzhou.
 		- XX用例 UI设计
 	- 7.2 Database design
 		- 7.2.1 用户及权限系统数据库设计
-		- 7.2.2 XX子系统数据课设计
+		- 7.2.2 XX子系统数据库设计
 		- 7.2.x 第三方数据评审结果
 	- 7.3 API设计
 - 8、[生产规范与指南](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/README.md)
@@ -29,9 +29,9 @@ Record the whole development process of Guangzhou.
 - [X2 Tech/Work Report](https://github.com/team-work-GuangZhou/Guangzhou/tree/master/tech-work_report)
 	- 学号-title
 - XX 建模练习
-	- XX1 XX应用
+	- [XX1 飞猪App建模文档](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/feizhu_doc.md)
 	- XX2 建模要求
-	- XX3 建模者答案与评价
+	- [XX3 建模者答案与评价](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/answer.md)
 # Iterations
 ## Iteration1
 **Week 1**
