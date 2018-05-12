@@ -18,7 +18,8 @@
  
  *活动图*：
  
- ![发布订单][3] 
+  ![发布订单][3] 
+  
  - **预订订单**: 用户对某项感兴趣可进行下单并交易
  - **租人项或出租项的详情页**：点击某一项出租项或租人项时可以查看其详情。
 
@@ -26,4 +27,14 @@
  
   [1]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UML/用例图.png
   [2]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/登录.png
-  [3]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UML/发布订单case.PNG
+  [3]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UML/发布订单case.PNG
+  [4]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/出租页.png
+  [5]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/详情页.png
+  [6]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/下单页.png
+  [7]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/下单成功页.png
+  [8]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/订单页地点打卡.png
+  [9]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/发布页.png
+  [10]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/地点打卡页.png
+  [11]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/发布成功.png
+  [12]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/订单页.png
+  [13]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/UI/个人页.png
