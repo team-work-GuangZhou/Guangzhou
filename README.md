@@ -9,7 +9,7 @@ Record the whole development process of Guangzhou.
 - 6、Requirement specification(需求规格说明书)
 	- 6.1 [Usecase Diagram (用例图)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/usecase_diagram.md)
 	- 6.2 [Use Cases (用例+活动图)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/Requirement-specification.md)
-	- 6.3 Domian Model (领域模型)
+	- 6.3 [Domian Model (领域模型)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/Domain_model.md)
 	- 6.4 [State Model (状态模型)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/state_model.md)
 	- 6.5 [System Sequence Diagram (功能模型)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/function_model.md)
 - 7、Design(设计)
@@ -20,8 +20,8 @@ Record the whole development process of Guangzhou.
 		- 7.2.2 XX子系统数据库设计
 		- 7.2.x 第三方数据评审结果
 	- 7.3 API设计
-- 8、[生产规范与指南](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/README.md)
-	- 8.1 安卓代码规范
+- 8、生产规范与指南
+	- 8.1 [安卓代码规范](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/README.md)
 	- 8.2 REST API设计规范
 - X1 meeting_recording
 	- [meeting_recording(yy/mm/dd)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/meeting_record.md)
