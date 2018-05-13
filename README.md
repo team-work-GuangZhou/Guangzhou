@@ -27,7 +27,7 @@ Record the whole development process of Guangzhou.
 	- [meeting_recording(yy/mm/dd)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/meeting_record.md)
 	- Iteration X meeting(yy/mm/dd)
 - X2 Tech/Work Report
-	- [学号-title]((https://github.com/team-work-GuangZhou/Guangzhou/tree/master/tech-work_report))
+	- [学号-title](https://github.com/team-work-GuangZhou/Guangzhou/tree/master/tech-work_report)
 - XX 建模练习
 	- [XX1 飞猪App建模文档](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/feizhu_doc.md)
 	- XX2 建模要求
