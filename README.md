@@ -16,8 +16,8 @@ Record the whole development process of Guangzhou.
 	- 7.1 UI design
 		- ["逛周"App用例 UI设计](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/Design.md)
 	- 7.2 Database design
-		- 7.2.1 [用户及权限系统数据库设计](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/%E7%94%A8%E6%88%B7%E5%8F%8A%E6%9D%83%E9%99%90%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1.md)
-		- 7.2.2 [子系统数据库设计]()
+		- 7.2.1 [用户及权限系统数据库设计](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/%E7%94%A8%E6%88%B7%E5%8F%8A%E6%9D%83%E9%99%90%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1.docx)
+		- 7.2.2 [子系统数据库设计](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/%E5%AD%90%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E5%BA%93.docx)
 		- 7.2.x 第三方数据评审结果
 	- 7.3 API设计
 - 8、生产规范与指南
@@ -30,7 +30,7 @@ Record the whole development process of Guangzhou.
 	- [学号-title](https://github.com/team-work-GuangZhou/Guangzhou/tree/master/tech-work_report)
 - XX 建模练习
 	- [XX1 飞猪App建模文档](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/feizhu_doc.md)
-	- XX2 建模要求
+	- [XX2 建模要求](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/modeling_requirement.md)
 	- [XX3 建模者答案与评价](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/answer.md)
 # Iterations
 ## Iteration1
