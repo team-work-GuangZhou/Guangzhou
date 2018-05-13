@@ -16,7 +16,7 @@ Record the whole development process of Guangzhou.
 	- 7.1 UI design
 		- ["逛周"App用例 UI设计](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/Design.md)
 	- 7.2 Database design
-		- 7.2.1 用户及权限系统数据库设计
+		- 7.2.1 [用户及权限系统数据库设计](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/%E7%94%A8%E6%88%B7%E5%8F%8A%E6%9D%83%E9%99%90%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1.md)
 		- 7.2.2 XX子系统数据库设计
 		- 7.2.x 第三方数据评审结果
 	- 7.3 API设计
