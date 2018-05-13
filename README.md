@@ -23,7 +23,7 @@
 	- 8.2 REST API设计规范
 - X1 meeting_recording
 	- [meeting_recording(yy/mm/dd)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/meeting_record.md)
-	- Iteration X meeting(yy/mm/dd)
+	- [Iteration X meeting(yy/mm/dd)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/iterations.md)
 - X2 Tech/Work Report
 	- [学号-title](https://github.com/team-work-GuangZhou/Guangzhou/tree/master/tech-work_report)
 - XX 建模练习
