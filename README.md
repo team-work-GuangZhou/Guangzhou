@@ -32,8 +32,8 @@ Record the whole development process of Guangzhou.
 	- [XX1 飞猪App建模文档](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/feizhu_doc.md)
 	- XX2 建模要求
 	- [XX3 建模者答案与评价](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/answer.md)
-# Iterations
-## Iteration1
+#Iterations
+##Iteration1
 **Week 1**
 * 团队组建
 * 项目前期调研
@@ -51,6 +51,7 @@ Record the whole development process of Guangzhou.
 	* 前端：熟悉前端源码结构
 	* 后端：对需要用到的技术进行学习
 
+##Iteration2
 **Week 4**
 * 需求分析：无
 * 设计：完善设计
