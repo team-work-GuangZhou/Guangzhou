@@ -1,6 +1,4 @@
-# Dashboard
-Record the whole development process of Guangzhou.
-# Core Artifacts
+# 目录
 - 1、[About(项目规划)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/README.md)
 - 2、[Team profile(团队组建)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/team-profile.md)
 - 3、[Investigation(项目前期调研)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/investigation.md)
@@ -11,13 +9,13 @@ Record the whole development process of Guangzhou.
 	- 6.2 [Use Cases (用例+活动图)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/Requirement-specification.md)
 	- 6.3 [Domian Model (领域模型)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/Domain_model.md)
 	- 6.4 [State Model (状态模型)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/state_model.md)
-	- 6.5 [System Sequence Diagram (功能模型)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/function_model.md)
+	- 6.5 [System Sequence Diagram (功能模型)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/system-sequence-diagrams)
 - 7、Design(设计)
 	- 7.1 UI design
 		- ["逛周"App用例 UI设计](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/Design.md)
 	- 7.2 Database design
-		- 7.2.1 [用户及权限系统数据库设计](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/%E7%94%A8%E6%88%B7%E5%8F%8A%E6%9D%83%E9%99%90%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1.md)
-		- 7.2.2 XX子系统数据库设计
+		- 7.2.1 [用户及权限系统数据库设计](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/%E7%94%A8%E6%88%B7%E5%8F%8A%E6%9D%83%E9%99%90%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1.docx)
+		- 7.2.2 [子系统数据库设计](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/%E5%AD%90%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E5%BA%93.docx)
 		- 7.2.x 第三方数据评审结果
 	- 7.3 API设计
 - 8、生产规范与指南
@@ -25,44 +23,11 @@ Record the whole development process of Guangzhou.
 	- 8.2 REST API设计规范
 - X1 meeting_recording
 	- [meeting_recording(yy/mm/dd)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/meeting_record.md)
-	- Iteration X meeting(yy/mm/dd)
+	- [Iteration X meeting(yy/mm/dd)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/iterations.md)
 - X2 Tech/Work Report
 	- [学号-title](https://github.com/team-work-GuangZhou/Guangzhou/tree/master/tech-work_report)
 - XX 建模练习
 	- [XX1 飞猪App建模文档](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/feizhu_doc.md)
-	- XX2 建模要求
+	- [XX2 建模要求](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/modeling_requirement.md)
 	- [XX3 建模者答案与评价](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/answer.md)
-# Iterations
-## Iteration1
-**Week 1**
-* 团队组建
-* 项目前期调研
-* 召开第一次小组会议，确定产品功能和基本分工
-
-**Week 2**
-* 需求分析：根据第一次会议，列出需求清单并发到讨论组内确认
-* 设计：无
-* 编码&测试：完成 [GitHub 教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)（“Git 简介”到“分支管理-多人协作”）
-
-**Week 3**
-* 需求分析：开发用户登录，注册，用户信息展示、存储功能
-* 设计：前端框架以及后端接口、数据库设计
-* 编码&测试：
-	* 前端：熟悉前端源码结构
-	* 后端：对需要用到的技术进行学习
-
-## Iteration2
-**Week 4**
-* 需求分析：无
-* 设计：完善设计
-* 编码&测试：
-	* 前端：用户登录，注册，用户信息展示界面开发
-	* 后端：用户注册信息存储开发
-
-**Week 5-7**
-* 需求分析：用户发布信息功能
-* 设计：前端框架以及后端接口、数据库设计
-* 编码&测试：
-	* 前端：用户填写发布信息界面，发布信息展示界面，个人信息界面添加发布信息记录的元素
-	* 后端：发布信息存储
 
