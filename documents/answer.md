@@ -1,7 +1,6 @@
 *飞猪App文档建模答案格式：</br>
 答题人：学号</br>
-答案链接：URL</br>
-*
+答案链接：URL</br>*
 
 答题人：15331119</br>
 答案链接：https://sternights.github.io/2018/05/13/系统分析与设计-homework7/</br>
