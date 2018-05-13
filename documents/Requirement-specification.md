@@ -1,8 +1,3 @@
-
-
-## User case图
-![Use case图][1]
-
 ##Use case 文本
 
  1. Brief Level
