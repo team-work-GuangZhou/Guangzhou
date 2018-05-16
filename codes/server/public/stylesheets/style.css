@@ -1,0 +1,101 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: rgba(211, 211, 211, 0.24);
+}
+
+body .column {
+    zoom: 1.;
+}
+
+
+a {
+  color: #00B7FF;
+}
+
+a.ui.blue.button.regis {
+    margin-top: 15px;
+/*    position: relative;
+    right: 5px;*/
+}
+
+.column {
+    position: relative;
+    top: 50px;
+    max-width: 450px
+}
+
+.column.signup {
+    top: 50px;
+}
+
+
+.column.signin {
+    top: 50px;
+}
+
+.beautify {
+    position: relative;
+    display: inline-block;
+    background: #D0EEFF;
+    border: 1px solid #99D3F5;
+    border-radius: 4px;
+    padding: 4px 12px;
+    overflow: hidden;
+    color: #1E88C7;
+    text-decoration: none;
+    text-indent: 0;
+    line-height: 20px;
+    height: 40px;
+}
+.beautify input {
+    position: absolute;
+    font-size: 100px;
+    right: 0;
+    top: 0;
+    opacity: 0;
+}
+.beautify:hover {
+    background: #AADFFD;
+    border-color: #78C3F3;
+    color: #004974;
+    text-decoration: none;
+}
+
+
+.avatar_span {
+    position: relative;
+    top: 5px;
+    left: 33px;
+    color: grey
+}
+
+.ui.teal.image.header {
+    cursor: default;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+
+.ui.segment {
+    border-radius: 2.5%;
+    position: relative;
+}
+
+#signupForm {
+    margin-top: 30px;
+}
+
+#signinForm {
+    margin-top: 30px;
+}
+
+.ui.form .field {
+    margin-bottom: 30px;
+    margin-top: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.ui.divider {
+    margin: 15px;
+}
