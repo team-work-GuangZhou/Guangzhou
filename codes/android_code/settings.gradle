@@ -1,0 +1,1 @@
+include ':app', ':smartloginlibrary-v0.5beta'

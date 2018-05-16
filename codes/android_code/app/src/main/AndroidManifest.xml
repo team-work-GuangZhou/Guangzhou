@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.stardust.guangzhou">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <!--用于进行网络定位-->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"></uses-permission>
+    <!--用于访问GPS定位-->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"></uses-permission>
+
+    <application
+        android:name=".App"
+        android:allowBackup="true"
+        android:icon="@mipmap/guangzhou_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".ui.MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.DetailActivity"
+            android:theme="@style/AppTheme.FullScreen"/>
+
+        <activity
+            android:name=".ui.PostActivity"
+            android:windowSoftInputMode="stateVisible|adjustResize"/>
+
+        <activity
+            android:name=".ui.MyProductActivity"
+            android:windowSoftInputMode="stateVisible|adjustResize"/>
+
+        <activity android:name=".ui.LoginActivity"/>
+        <activity android:name=".ui.LocationActivity"/>
+        <activity android:name=".ui.PayActivity"/>
+        <activity android:name=".ui.OrderActivity"/>
+        <meta-data android:name="com.amap.api.v2.apikey" android:value="25f7edefa80402f0e43b0e4321cb443b">
+        </meta-data>
+        <service android:name="com.amap.api.location.APSService"></service>
+    </application>
+
+</manifest>

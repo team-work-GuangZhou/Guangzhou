@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ColourLineView">
+            <!--线条高度-->
+            <attr name = "line_height" format="dimension"/>
+            <!--第一种颜色块的宽度-->
+            <attr name = "item_width" format="dimension"/>
+            <!--第二种颜色块的宽度-->
+            <attr name = "separation_width" format="dimension"/>
+            <!--平行四边形倾斜的程度-->
+            <attr name="lean_degree" format="dimension"/>
+            <!--第一种颜色-->
+            <attr name = "first_color" format="color"/>
+            <!--第二种颜色-->
+            <attr name="second_color" format="color"/>
+            <!--线条底色-->
+            <attr name="canvas_color" format="color"/>
+    </declare-styleable>
+</resources>

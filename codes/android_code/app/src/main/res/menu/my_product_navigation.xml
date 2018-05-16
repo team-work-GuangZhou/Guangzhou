@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_rent"
+        android:icon="@drawable/paper_plane_1_48"
+        android:title="租我"/>
+
+    <item
+        android:id="@+id/navigation_borrow"
+        android:icon="@drawable/iconmonstr_paper_plane_1_48"
+        android:title="我租"/>
+
+</menu>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/colorPrimary"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:orientation="horizontal"
+            android:padding="8dp">
+
+            <ImageView
+                android:id="@+id/back"
+                android:layout_width="34dp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="8dp"
+                android:layout_marginBottom="4dp"
+                android:layout_marginTop="4dp"
+                android:gravity="center"
+                android:src="@drawable/back"/>
+
+            <AutoCompleteTextView
+                android:id="@+id/search_location"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/search_box_bg"
+                android:gravity="center_vertical|left"
+                android:hint="查找地点"
+                android:paddingLeft="20dp"
+                android:textColor="@android:color/primary_text_dark"
+                android:textColorHint="@android:color/primary_text_dark"
+                android:textSize="14sp"/>
+
+            <ImageView
+                android:id="@+id/choose"
+                android:layout_width="34dp"
+                android:layout_height="34dp"
+                android:layout_marginLeft="8dp"
+                android:background="?selectableItemBackgroundBorderless"
+                android:clickable="true"
+                android:padding="4dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/choose"/>
+        </LinearLayout>
+
+
+        <com.amap.api.maps.MapView
+            android:id="@+id/map"
+            android:layout_width="match_parent"
+            android:layout_height="270dp">
+        </com.amap.api.maps.MapView>
+
+        <ListView
+            android:id="@+id/search_result_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/map"
+            android:layout_weight="1"
+            android:cacheColorHint="#00000000"
+            android:dividerHeight="1px"
+            android:divider="@android:color/darker_gray"/>
+
+    </LinearLayout>
+
+</FrameLayout>
