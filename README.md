@@ -1,5 +1,5 @@
 # 目录
-- 1、[About(项目规划)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/README.md)
+- 1、[About(项目规划)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/iterations.md)
 - 2、[Team profile(团队组建)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/team-profile.md)
 - 3、[Investigation(项目前期调研)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/investigation.md)
 - 4、Vision(项目愿景)
