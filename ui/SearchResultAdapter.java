@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by ljh on 2017/12/13.
+ * Created by hyf? on 2017/12/13.
  */
 
 class SearchResultAdapter extends BaseAdapter {
