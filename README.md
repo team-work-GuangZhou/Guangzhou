@@ -20,7 +20,7 @@
 	- 7.3 API设计
 - 8、生产规范与指南
 	- 8.1 [安卓代码规范](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/README.md)
-	- 8.2 REST API设计规范
+	- 8.2 [REST API设计规范](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/restful_api_guide.md)
 - X1 meeting_recording
 	- [meeting_recording(yy/mm/dd)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/meeting_record.md)
 	- [Iteration X meeting(yy/mm/dd)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/iterations.md)
