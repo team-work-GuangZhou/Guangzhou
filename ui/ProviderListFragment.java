@@ -25,7 +25,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Created by Stardust on 2017/4/15.
+ * Created by Stardust and kendyBobJako on 2017/4/15.
  */
 
 public class ProviderListFragment extends Fragment {
