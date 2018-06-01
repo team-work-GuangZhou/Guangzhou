@@ -19,7 +19,7 @@
 		- 7.2.x 第三方数据评审结果
 	- 7.3 API设计
 - 8、生产规范与指南
-	- 8.1 [安卓代码规范](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/README.md)
+	- 8.1 [安卓代码规范](https://github.com/team-work-GuangZhou/Guangzhou/tree/master/codes/android_code)
 	- 8.2 [REST API设计规范](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/restful_api_guide.md)
 - X1 meeting_recording
 	- [meeting_recording(yy/mm/dd)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/meeting_record.md)
