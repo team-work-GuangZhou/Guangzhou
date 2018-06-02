@@ -10,6 +10,7 @@
 	- 6.3 [Domian Model (领域模型)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/Domain_model.md)
 	- 6.4 [State Model (状态模型)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/state_model.md)
 	- 6.5 [System Sequence Diagram (功能模型)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/system-sequence-diagrams)
+	- 6.6 [Supplementary Requirements (补充需求)]()
 - 7、Design(设计)
 	- 7.1 UI design
 		- ["逛周"App用例 UI设计](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/Design.md)
@@ -17,7 +18,8 @@
 		- 7.2.1 [用户及权限系统数据库设计](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/%E7%94%A8%E6%88%B7%E5%8F%8A%E6%9D%83%E9%99%90%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1.docx)
 		- 7.2.2 [子系统数据库设计](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/%E5%AD%90%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E5%BA%93.docx)
 		- 7.2.x 第三方数据评审结果
-	- 7.3 API设计
+	- 7.3 [API design]()
+	- 7.4 [Software Architecture Document]()
 - 8、生产规范与指南
 	- 8.1 [安卓代码规范](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/android_code/README.md)
 	- 8.2 [REST API设计规范](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/restful_api_guide.md)
