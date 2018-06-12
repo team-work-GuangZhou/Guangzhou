@@ -85,7 +85,6 @@ public class MeFragment extends Fragment {
         refreshUser();
     }
     
-    // refresh user by avatar??
     // seems something need to add here
     private void refreshUser() {
         User user = App.getClient().getUser();
