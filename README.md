@@ -19,15 +19,21 @@
 		- 7.2.2 [子系统数据库设计](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/%E5%AD%90%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E5%BA%93.docx)
 		- 7.2.x 第三方数据评审结果
 	- 7.3 API design
-	- 7.4 Software Architecture Document
+	- 7.4 [Software Architecture Document](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/software_architecture_doc.md)
+	- 7.5 Usecase design
+	 	- 7.5.1 [Signin&ReleaseInfo case design](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/ECB_diagrams.md)
 - 8、生产规范与指南
 	- 8.1 [安卓代码规范](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/android_code/README.md)
 	- 8.2 [REST API设计规范](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/restful_api_guide.md)
+	- 8.3[逻辑架构到应用程序映射指南](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/BEC_relationship.md)
+	- 8.4[物理架构云上部署dock-compose.yml文件编写与使用]((https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/Deployment_instruction.md))
 - X1 meeting_recording
 	- [meeting_recording(yy/mm/dd)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/meeting_record.md)
 	- [Iteration X meeting(yy/mm/dd)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/iterations.md)
 - X2 Tech/Work Report
 	- [学号-title](https://github.com/team-work-GuangZhou/Guangzhou/tree/master/tech-work_report)
+- X3 Final Report
+	- [学号-title](https://github.com/team-work-GuangZhou/Guangzhou/tree/master/final_report)
 - XX 建模练习
 	- [XX1 飞猪App建模文档](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/feizhu_doc.md)
 	- [XX2 建模要求](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/modeling_requirement.md)
