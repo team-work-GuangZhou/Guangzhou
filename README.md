@@ -19,7 +19,7 @@
 		- 7.2.2 [子系统数据库设计](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/%E5%AD%90%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E5%BA%93.docx)
 		- 7.2.x 第三方数据评审结果
 	- 7.3 API design
-	- 7.4 [Software Architecture Document](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/Software_architechture_doc.pdf)
+	- 7.4 [Software Architecture Document](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/software_architecture_doc.md)
 - 8、生产规范与指南
 	- 8.1 [安卓代码规范](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/android_code/README.md)
 	- 8.2 [REST API设计规范](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/restful_api_guide.md)
