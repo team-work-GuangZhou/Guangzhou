@@ -6,6 +6,7 @@
  ![服务器][2]
 
 3.	注意应为服务器搭建在本机，所以APP程序中需要根据服务器地址更换访问的URL，例如：192.168.253.1：5000
+ ![ipl][4]
  ![url][3]
  
 4.打开app，即可使用。
@@ -14,3 +15,4 @@
  [1]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/img/nodejs.png
  [2]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/img/server.png
  [3]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/img/url.png
+ [4]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/img/ip.png
