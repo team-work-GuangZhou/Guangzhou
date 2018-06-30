@@ -1,8 +1,8 @@
 
-##一.客户端产品框架
+## 一.客户端产品框架
 
 
-##0.文件树图 
+## 0.文件树图 
 
 ├─guangzhou
 
@@ -52,7 +52,7 @@ EventBus是一款针对Android优化的发布/订阅事件总线。简化了应�
 
 间、组件与后台线程间的通信。优点是开销小，代码更优雅，以及将发送者和接收者解耦。
 
-##2.	网络层
+## 2.	网络层
 
 (1) 网络请求框架：Retrofit + OkHttp
 
@@ -62,7 +62,7 @@ Retrofit是一个RESTful的HTTP网络请求框架，基于OkHttp并遵守RESTful
 
 (3)	Api：封装和服务器通信的API
 
-##3.	UI层
+## 3.	UI层
 
 依赖注入框架： Android Annotations
 
@@ -84,13 +84,13 @@ Retrofit是一个RESTful的HTTP网络请求框架，基于OkHttp并遵守RESTful
 
 Glide是一个Android的图片加载和缓存库，它主要专注于大量图片的流畅加载，Glide几乎可以胜任任何你需要使用到图片从网络拉取，压缩，显示的场景。
 
-##4.	Model层
+## 4.	Model层
 
 业务逻辑
 
 POJO
 
-##5.	数据存储层
+## 5.	数据存储层
 
 ORM框架 DbFlow
 
@@ -115,10 +115,10 @@ DBFlow基于AnnotationProcessing(注解处理器），通过编译期代码生�
 
 
 
-##二. 服务器端产品框架：
+## 二. 服务器端产品框架：
 
 
-##0.文件树图：
+## 0.文件树图：
  ├─bin
 
 ├─models
@@ -131,7 +131,7 @@ DBFlow基于AnnotationProcessing(注解处理器），通过编译期代码生�
 
 └─views
 
-##1.	框架优势阐述： ①Node.js
+## 1.	框架优势阐述： ①Node.js
 
 这次服务端我们使用node.js来实现，nodejs的优点是事件驱动，采用异步回调的方式来处理时间，所以nodejs在面对大量的请求时能够保持较好的稳定性。其次，此次服务端扮演的角色主要是根据前端请求返回json数据以图片，即主要的都是IO密集型的请求，对CPU的压力并不大，所以使用异步回掉可以很好地发挥作用。
 
