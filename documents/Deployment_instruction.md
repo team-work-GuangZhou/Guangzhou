@@ -1,4 +1,4 @@
-##To run the application, please follow the instructions below:
+## To run the application, please follow the instructions below:
 1.	搭建nodejs环境，直接进入node官网下载相应版本的node即可
  ![nodejs环境][1]
 
