@@ -5,13 +5,11 @@
 2.	打开命令行，进入服务器所在文件夹，输入“npm start”，启动服务器，如果显示一下内容，则意味着运行成功。
  ![服务器][2]
 
-3.	注意因为服务器搭建在本机，所以APP程序中需要根据服务器地址更换访问的URL，要进行访问的话就必须知道电脑的ip地址，做法是Android必须与电脑是同IP段，即在同一个局域网才可以访问，在电脑上用一个随身wifi共享网络（windows自带wifi或者360等其他wifi），让手机连接。然后用cmd命令提示符 ipconfig查看本机的ip地址。然后修改网络请求的URL，该文件在项目的guangzhou文件夹的App.java文件中.例如：192.168.137.1：5000（端口不变）
+3.	注意因为服务器搭建在本机，所以Android必须与电脑是同IP段，即在同一个局域网才可以访问。要知道IP段的做法是，在电脑上用一个随身wifi共享网络（windows自带wifi或者360等其他wifi），让手机连接。然后用cmd命令提示符 ipconfig查看本机的ip地址。然后修改网络请求的URL，该文件在项目的guangzhou文件夹的App.java文件中.例如：192.168.137.1：5000（端口不变）
  ![ipl][4]
  ![url][3]
  
 4.  本软件需要安装在android平台版本4.4及以上。打开app运行即可。
-
-
 
  [1]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/img/nodejs.png
  [2]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/img/server.png
