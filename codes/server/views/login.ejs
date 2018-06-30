@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<!-- saved from url=(0022)http://127.0.0.1:3000/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>Express</title><link rel="stylesheet" href="//cdn.bootcss.com/semantic-ui/2.1.8/semantic.min.css"><link rel="stylesheet" href="/stylesheets/style.css"><script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script><script src="//cdn.bootcss.com/semantic-ui/2.1.8/semantic.min.js"></script></head>
+<body>
+<div class="ui middle aligned center aligned grid">
+<div class="column signin">
+<h1 class="ui teal image header">
+<i class="vimeo icon"></i>
+<div class="content">登录</div>
+</h1>
+  <form id="signinForm" method="post" class="ui large form">
+    <div class="ui stacked segment">
+      <div class="field">
+        <div class="ui left icon input">
+          <i class="user icon"></i>
+          <input type="text" name="name" placeholder="请输入您的用户名">
+        </div>
+      </div>
+      <div class="field">
+        <div class="ui left icon input">
+          <i class="lock icon"></i>
+          <input type="password" name="password" placeholder="请输入您的密码">
+        </div>
+      </div>
+      <input type="submit" value="登录" class="ui fluid large teal submit button">
+      <div class="ui horizontal divider"> Or</div>
+      <a class="ui fluid blue button regis" href="/reg">注册</a>
+      <div class="ui error message">
+      </div>
+    </div>
+  </form>
+</div>
+</div>
+<script>$('#signinForm')
+.form({
+on: 'blur',
+fields: {
+  name: {
+    identifier: 'name',  // binding to the element;
+    rules: [{
+      type: 'empty',
+      prompt: 'please enter your name'
+    },
+    {
+      type: 'maxLength[10]',
+      prompt: '用户名请不要超过10个字符'
+    }]
+  },
+  password: {
+    identifier: 'password',
+    rules: [{
+      type: 'empty',
+      prompt: 'Please enter the password'
+    }]
+  }
+}
+});</script></body></html>

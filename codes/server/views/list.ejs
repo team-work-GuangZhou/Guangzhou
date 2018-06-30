@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<title>Diary</title>
+<link rel="stylesheet" href="/stylesheets/style.css">
+</head>
+<body>
+
+ 
+   
+    <% if (posts) { %>  
+    <% posts.forEach(function(post){ %>  
+        <p class="info">
+    		title：<%= post.title %> 
+  		</p>
+      	<p><%= post.post %></p> 
+      	<p><%= post.image %></p>
+    <% }) %>  
+    <% } %>
+  
+
+</body>
+</html>

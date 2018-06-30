@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<title>Diary</title>
+<link rel="stylesheet" href="/stylesheets/style.css">
+ <script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
+  <script src="/javascripts/diary.js"></script>
+</head>
+<body>
+<form method="post" action="javascript:;">
+  标题：<br />
+  Title<input type="text" name="title" /><br />
+  Type<input type="text" name="type" /><br />
+  <input id="img_select" type="file" name="image" /><br />
+  Location<input type="text" name="location" /><br />
+  正文：<br />
+  <textarea id = "post" name="post" rows="20" cols="100"></textarea><br />
+  Price<input type="text" name="price"/><br/>
+  <input id="submit"  type="submit" value="发表" />
+</form>
+</body>
+</html>

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <link rel="stylesheet" href="//cdn.bootcss.com/semantic-ui/2.1.8/semantic.min.css">
+    <link rel="stylesheet" href="/stylesheets/style.css">
+    <script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
+    <script src="//cdn.bootcss.com/semantic-ui/2.1.8/semantic.min.js"></script>
+    <script src="/javascripts/regist.js"></script>
+  </head>
+  <body>
+  <div class="ui middle aligned center aligned grid">
+    <div class="column signup">
+      <h1 class="ui teal image header">
+        <i class="ui sign in icon"></i>
+        <div class="content">注册</div>
+      </h1>
+      <form class="ui large form" id="signupForm" method="post" action="javascript:;">
+        <div class="ui stacked segment">
+          <div class="field">
+            <div class="ui left icon input"><i class="user icon"></i>
+              <input type="text" name="name" placeholder="请输入用户名">
+            </div>
+          </div>
+          <div class="field">
+            <div class="ui left icon input"><i class="lock icon"></i>
+              <input type="password" name="password" placeholder="请输入密码">
+            </div>
+          </div>
+          <div class="field">
+            <div class="ui left icon input"><i class="lock icon"></i>
+              <input type="password" name="password_repeat" placeholder="请再次输入密码">
+            </div>
+          </div>
+          <div class="field">
+            <div class="ui left icon input beautify"><i class="plus icon"></i>
+              <input id="avatar_select" type="file" name="avatar" accept="image/png, image/jpeg, image/gif" placeholder="请选择一张图片作为头像"><span class="avatar_span">选择头像</span>
+            </div>
+          </div>
+          <input class="ui fluid large teal submit button" type="submit" value="注册" />
+          <div class="ui horizontal divider">Or</div>
+          <a href="/login" class="ui fluid blue button">登录</a>
+          <div class="ui error message"></div>
+        </div>
+      </form>
+    </div>
+  </div>
+  <script>
+        $('#signupForm')
+        .form({
+        fields: {
+            name: {
+                identifier: 'name',  // binding to the element;
+                rules: [{
+                    type: 'empty',
+                    prompt: '请输入你的用户名'
+                },
+                {
+                    type: 'maxLength[10]',
+                    prompt: '用户名请不要超过10个字符'
+                }]
+            },
+            password: {
+                identifier: 'password',
+                rules: [{
+                    type: 'empty',
+                    prompt: '请输入密码'
+                }]
+            },
+            repassword: {
+                identifier: 'password_repeat',
+                rules: [{
+                    type: 'empty',
+                    prompt: '请验证密码'
+                },
+                {
+                    type: 'match[password]',
+                    prompt: "两次密码输入不一致"  
+                }]
+            },
+            avatar: {
+                identifier: 'avatar',
+                rules: [{
+                    type: 'empty',
+                    prompt: '请选择一张图片作为头像'
+                }]
+            }
+        }
+        });
+</script>
