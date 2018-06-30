@@ -31,7 +31,7 @@
 	- [meeting_recording(yy/mm/dd)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/meeting_record.md)
 	- [Iteration X meeting(yy/mm/dd)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/iterations.md)
 - X2 Tech/Work Report
-	- [学号-title](https://github.com/team-work-GuangZhou/Guangzhou/tree/master/tech-work_report)
+	- [15331136-孔令爽](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/15331136-%E5%AD%94%E4%BB%A4%E7%88%BD.md)
 - X3 Final Report
 	- [学号-title](https://github.com/team-work-GuangZhou/Guangzhou/tree/master/final_report)
 - XX 建模练习
