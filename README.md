@@ -25,8 +25,9 @@
 - 8、生产规范与指南
 	- 8.1 [安卓代码规范](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/android_code/README.md)
 	- 8.2 [REST API设计规范](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/restful_api_guide.md)
-	- 8.3 [逻辑架构到应用程序映射指南](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/ECB_relationship.md)
-	- 8.4 [物理架构云上部署dock-compose.yml文件编写与使用](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/Deployment_instruction.md)
+	- 8.3 [API文档](https://autojs.gitbook.io/guangzhou/)
+	- 8.4 [逻辑架构到应用程序映射指南](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/ECB_relationship.md)
+	- 8.5 [物理架构云上部署dock-compose.yml文件编写与使用](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/Deployment_instruction.md)
 - X1 meeting_recording
 	- [meeting_recording(yy/mm/dd)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/meeting_record.md)
 	- [Iteration X meeting(yy/mm/dd)](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/iterations.md)
