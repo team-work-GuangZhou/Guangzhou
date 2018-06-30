@@ -146,3 +146,14 @@ Android前端通过Get/Post请求访问上传数据，服务端返回json字段�
 ③MongoDB
 
 在数据库方面，我们使用了较为流行的mongoDB，这是一种非关系型数据库，在面对大量的网络访问请求时查找效率会比关系型数据库更快，以保证服务器的稳定性。
+
+## 三. 逻辑视图
+
+ ![逻辑视图][1]
+
+## 三. 物理视图
+
+ ![物理视图][2]
+
+  [1]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/img/逻辑视图.png
+  [2]: https://github.com/team-work-GuangZhou/Guangzhou/blob/master/assets/img/物理视图.png
