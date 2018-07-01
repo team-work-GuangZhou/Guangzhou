@@ -21,7 +21,7 @@
 	- 7.3 [API design](https://autojs.gitbook.io/guangzhou/)
 	- 7.4 [Software Architecture Document](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/software_architecture_doc.md)
 	- 7.5 Usecase design
-	 	- 7.5.1 [Signin&ReleaseInfo case design](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/ECB_diagrams.md)
+		- 7.5.1 [Signin&ReleaseInfo case design](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/ECB_diagrams.md)
 - 8、生产规范与指南
 	- 8.1 [安卓代码规范](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/codes/android_code/README.md)
 	- 8.2 [REST API设计规范](https://github.com/team-work-GuangZhou/Guangzhou/blob/master/documents/restful_api_guide.md)
