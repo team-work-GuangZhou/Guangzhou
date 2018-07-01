@@ -9,6 +9,7 @@
 |YT|[15331363-github使用及使用github进行项目管理](https://blog.csdn.net/baidu_36282128/article/details/79907077)|
 |KLS|[15331136-Kotlin入门学习心得](https://mp.csdn.net/postedit/80514564)|
 |KLS|[15331136-网络请求框架使用](https://mp.csdn.net/postedit/79943976)|
+|KLS|[15331136-安卓图片处理](https://blog.csdn.net/weixin_36317299/article/details/80873948)|
 |KLS|[15331136-系分项目学习过程的心得体会](https://mp.csdn.net/postedit/79777906)|
 |HYB|[15331123-其他项目](https://github.com/hyb1996)|
 |YMJ|[15331382-Python button选取本地图片并显示](https://blog.csdn.net/YuMingJing_/article/details/79603579)|
